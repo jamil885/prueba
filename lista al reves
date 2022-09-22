@@ -1,0 +1,5 @@
+numero= list(range(101))
+
+
+numero.reverse()
+print(numero)
